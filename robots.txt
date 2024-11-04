@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxecuodi.github.io/NoP/sitemap_index.txt
+Sitemap: https://oxecuodi.github.io/Vgu/sitemap_index.txt
+Sitemap: https://oxecuodi.github.io/rnB/sitemap_index.txt
+Sitemap: https://oxecuodi.github.io/xDC/sitemap_index.txt
